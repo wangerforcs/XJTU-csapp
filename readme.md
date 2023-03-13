@@ -1,6 +1,4 @@
-datalab 
-long for 64 bits
+# csapp_lab_xjtu
+Curses, I take pains to complete it while the result is worthy
 
-bomblab 
-for file:chmod 777 ./bomb, or permission denied
-for dir:chmod -R 777 dir
+## Remenber to remove the personal message before you keep it open
