@@ -1,4 +1,3 @@
 # csapp_lab_xjtu
-Curses, I take pains to complete it while the result is worthy
-
-## Remenber to remove the personal message before you keep it open
+## Remember to remove the personal message before you keep it open
+Best course I have learned in xjtu, though it takes me plenty of time
